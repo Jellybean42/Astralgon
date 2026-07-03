@@ -22,7 +22,7 @@ author = "JoshGriffithsDev"
 license = "MIT"
 
 # URL to the repository of your app.
-url = "https://github.com/USERNAME/tildagon-astralgon"
+url = "https://github.com/Jellybean42/Astralgon"
 
 # Description of your app.  Maximum 140 characters!
 description = "A star map showing the brightest stars in the sky and their names."
